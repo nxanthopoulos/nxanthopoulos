@@ -1,16 +1,42 @@
-## Hi there 👋
+# Nicholas Xanthopoulos
 
-<!--
-**nxanthopoulos/nxanthopoulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Biology major with a minor in Mathematics, interested in computational modeling, biosignal processing, and embedded instrumentation.
 
-Here are some ideas to get you started:
+Currently building microcontroller-based sensing systems and exploring low-cost physiological signal acquisition (ECG / optical sensing).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Focus
+
+- Arduino / ESP32 firmware development
+- Sensor integration and signal acquisition
+- Serial data logging and live visualization (Python)
+- Mathematical modeling of biological systems
+
+---
+
+## Active Projects
+
+- Ultrasonic Distance + Servo System (embedded control demo)
+- ESP32 Sensor Data Pipeline (serial → Python live plotting)
+- Low-cost physiological signal prototype (ECG-inspired using optical + thermal sensing)
+
+---
+
+## Technical Areas
+
+- C++ (Arduino / MCU firmware)
+- Python (data handling, visualization)
+- Linear algebra and differential equations (applied modeling)
+- Basic signal filtering and threshold logic
+
+---
+
+## Goals
+
+Develop low-cost, computation-aware biological instrumentation systems that combine:
+- Hardware sensing
+- Embedded logic
+- Mathematical modeling
+- Data analysis pipelines
+
