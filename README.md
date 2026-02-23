@@ -8,7 +8,7 @@ Currently building microcontroller-based sensing systems and exploring low-cost 
 
 ## Current Focus
 
-- Arduino / ESP32 firmware development
+- MCU firmware development
 - Sensor integration and signal acquisition
 - Serial data logging and live visualization (Python)
 - Mathematical modeling of biological systems
